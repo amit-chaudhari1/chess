@@ -33,7 +33,7 @@ You will need to source SDL2 and SDL2-image, then cmake and run the `chess` bina
 ## Screenshots
 ![](screenshots/board.jpg)
 
-![](screenshots/unithold.jpg)
+![](screenshots/unitholdpick.jpg)
 
 ## Resource
 
