@@ -30,6 +30,10 @@ Keep in mind that following features could be implemented in future (if i decide
 
 You will need to source SDL2 and SDL2-image, then cmake and run the `chess` binary that is created. the sprites for the characters is in images folder. 
 
+## Screenshots
+![](screenshots/board.jpg)
+
+![](screenshots/unithold.jpg)
 
 ## Resource
 
